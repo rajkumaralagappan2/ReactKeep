@@ -13,7 +13,7 @@ This project is a clone of Google Keep, a note-taking application, built using R
 ## Features
 
 - **Create Notes:** Easily create and save notes with a title and content.
-- 
+
 - **Edit and Delete:** Modify the content of your notes or delete them as needed.
 
 - **Responsive Design:** Enjoy a seamless experience on various devices, thanks to the responsive design.
