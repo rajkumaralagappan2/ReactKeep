@@ -4,6 +4,12 @@
 
 This project is a clone of Google Keep, a note-taking application, built using React.js. It aims to replicate the core features of Google Keep while providing a customizable and user-friendly interface for managing notes.
 
+## Screenshots
+
+[![React-Keep-Home-Page.png](https://i.postimg.cc/zvW9g7DY/React-Keep-Home-Page.png)](https://postimg.cc/QK84LpWf)
+[![React-Keep-title.png](https://i.postimg.cc/FzjBRKG9/React-Keep-title.png)](https://postimg.cc/1V3H7sLT)
+[![React-Keep-content.png](https://i.postimg.cc/ZnkQ4N87/React-Keep-content.png)](https://postimg.cc/1nHBKfYw)
+
 ## Features
 
 - **Create Notes:** Easily create and save notes with a title and content.
